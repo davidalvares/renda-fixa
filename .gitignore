@@ -14,5 +14,5 @@ out/
 .factorypath
 .mvn
 mvnw.bat
-.mvn/wrapper
+.mvn/wrapper/
 
