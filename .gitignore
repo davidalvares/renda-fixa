@@ -12,3 +12,7 @@ out/
 .settings
 .classpath
 .factorypath
+.mvn
+mvnw.bat
+.mvn/wrapper
+

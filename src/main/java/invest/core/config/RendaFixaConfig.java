@@ -1,2 +1,4 @@
-package invest.core.config;public class RendaFixaConfig {
+package invest.core.config;
+
+public class RendaFixaConfig {
 }

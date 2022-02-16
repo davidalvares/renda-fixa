@@ -1,2 +1,4 @@
-package invest.controller;public class RendaFixaControllerImpl {
+package invest.controller;
+
+public class RendaFixaControllerImpl {
 }
