@@ -5,6 +5,7 @@ build/
 target/
 out/
 .idea
+.mvn/wrapper
 *.iml
 *.ipr
 *.iws
@@ -12,7 +13,7 @@ out/
 .settings
 .classpath
 .factorypath
-.mvn
 mvnw.bat
-.mvn/wrapper/
+.mvnw
+
 
